@@ -8,5 +8,5 @@ This is helpful in crafting a personalized product or bundled products for long 
 
 Setup:
 
--Run the answer.sql file💻
+-Run the records.sql file💻
         
